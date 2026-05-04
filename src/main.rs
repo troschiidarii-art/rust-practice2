@@ -3,4 +3,4 @@ mod hackerrank;
 
 fn main() {
     println!("We learn Rust!");
-}dir src\hackerrank
+}
